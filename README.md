@@ -6,7 +6,7 @@ A homelab using Oracle VirtualBox &amp; Windows Server 2019 to simulate a corpor
 Project Overview:
 This project demonstrates proficiency in fundamental enterprise IT infrastructure setup, system administration, and automation. I independently designed and deployed a secure, fully functional Active Directory domain within a virtual environment (Oracle VirtualBox), focusing on core Identity and Access Management (IAM) and network services.
 
-The primary achievement of this project is to practice & get familiar with Windows Server 2019, Active Directory, & Powershell to further my technical skil & grow my aptitude for growing my career in Information Technology.
+The primary achievement of this project is to practice & get familiar with Windows Server 2019, Active Directory, & Powershell to further my technical skil & grow my aptitude for elevating my career in Information Technology.
 
 🛠️ Technology Used:
 
@@ -18,7 +18,7 @@ Core Services: Active Directory Domain Services (AD DS)
 
 Automation: PowerShell Scripting
 
-Networking: DHCP, DNS, NAT Routing (RRAS)
+Networking: DHCP, DNS, NAT , Remote Access Routing
 
 Client OS: Windows 11
 
@@ -39,9 +39,9 @@ Client OS: Windows 11
 🚀 How to Run the Script (caution to only do as homelab)
 1) Open PowerShell IDE
 2) Type, set-ExecutionPolicy Unrestricted
-3) Enter
+3) Press Enter
 4) Type, cd c:\users\username_of_domain_controller\location_where_you_put_scriptZipFile\Ad_Ps-master
-5) Enter
+5) Press Enter
 6) Type, LS
    
 
