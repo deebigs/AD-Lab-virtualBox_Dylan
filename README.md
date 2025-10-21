@@ -53,6 +53,6 @@ For detailed steps on the initial Domain Controller, DHCP, DNS, and NAT routing 
 
 /Scripts/New-BulkUsers.ps1: The complete PowerShell code for bulk user creation.
 
-/Documentation/DC_Setup_Notes.txt: Step-by-step administrative notes on DC installation and service configuration.
+/Documentation/StepbyStep: Step-by-step administrative notes on DC installation and service configuration.
 
-Project completed by [Your Name] for foundational IT infrastructure experience.
+Project completed by Dylan Alagar for foundational IT infrastructure experience.
