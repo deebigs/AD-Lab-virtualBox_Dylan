@@ -8,7 +8,7 @@ This project demonstrates proficiency in fundamental enterprise IT infrastructur
 
 The primary achievement of this project is to practice & get familiar with Windows Server 2019, Active Directory, & Powershell to further my technical skil & grow my aptitude for growing my career in Information Technology.
 
-🛠️ Technology Stack
+🛠️ Technology Used:
 
 Operating System: Windows Server 2019 (Domain Controller)
 
